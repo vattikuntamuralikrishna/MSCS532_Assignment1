@@ -18,4 +18,4 @@ numbers = [12, 5, 8, 19, 3, 15, 7]
 print("Original:", numbers)
 
 insertion_sort_desc(numbers)
-print("Sorted (Desc):", numbers)
+print("Sorting (Desc):", numbers)
